@@ -84,7 +84,7 @@ public class AComponent {
 		keyEvent = a; keyListen = true;
 	}
 
-	public void onMouseEvent(KeyEvent a){
+	public void onKeyEvent(KeyEvent a){
 
 	}
 
