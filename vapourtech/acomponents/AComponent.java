@@ -13,7 +13,7 @@ public class AComponent {
 	 * draw(Graphics)
 	 * onMouseEvent(MouseEvent)
 	 * OTHERWISE IT'S FINE
-	 * 
+	 * AERO SUCKS!
 	 * AComponent Created by Aero
 	 * (Removing this comment is fine!)
 	 */
